@@ -27,5 +27,10 @@ Then, open browser and go to http://localhost:8089 to access the Locust web inte
 I have tested locally and works properly with simultaneously with 5 user (locust dashboard):
 ![plot](./images/load_test.png)
 
+---
+
+This project is a part of the CeloAI Decision Intelligence Software Engineer (ML) Challenge
+
+
 
 
